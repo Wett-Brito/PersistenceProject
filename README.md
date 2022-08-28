@@ -15,7 +15,7 @@
 
     Diagrama de classes: 
 
-![plot](./image/diagrama.jpeg)
+![plot](./image/diagrama.jpg)
 
     Os consumidores possuem suas proprias informações e
     também possuem orders e um endereço.
